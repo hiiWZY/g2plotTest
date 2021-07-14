@@ -277,5 +277,6 @@ export default () => (
     <h2>LineChart Example</h2>
     <LineChart {...config} />
     <LineChart {...config1} />
+    <LineChart {...config1} />
   </section>
 );
